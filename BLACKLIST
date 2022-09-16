@@ -1,1 +1,20 @@
-
+return {
+  finding_names = {
+      "lovehack",
+      "hxck",
+      "h4ck",
+      "l0veh4ck",
+      "loveh4ck",
+      "lovehxck",
+      "vxpe",
+      "futureclient",
+      "krnl",
+      "synapse",
+      "protosmasher",
+      "sentinelv3",
+      "sentielv3",
+  },
+  users = {
+      
+  },
+}
